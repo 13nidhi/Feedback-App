@@ -46,6 +46,17 @@ header {
   color: #fff;
 }
 
+.input-card {
+  background: transparent;
+  color: #fff;
+}
+
+.button-card {
+  border-radius: 12px;
+  background: transparent;
+  color: #fff;
+}
+
 .card h2 {
   font-size: 22px;
   font-weight: 600;
